@@ -13,7 +13,7 @@
 
           <div id="darkBlue">
 
-               <img src="../../../Downloads/python.png" alt="The iconic python logo!" id="python">
+               <img src="python.png" alt="The iconic python logo!" id="python">
 
                <div class="topRight1">
                     <p><span style="font-size: 14px;">Text Size: </span><span style="font-size: 14px; text-decoration: underline; color: #e6c536;">Normal</span> <span>|</span> <span style="font-size: 14px; text-decoration: underline; color: #e6c536;">Large</span></p>
